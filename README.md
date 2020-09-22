@@ -17,3 +17,6 @@ A list of encryption algorithms to demonstrate concepts of Cryptography. Program
 
 ### [Vignere-Cypher](/Vignere_Cypher.c)
   This cipher uses a text string (say, a word) as a key, which is then used for doing a number of shifts on the plaintext.
+
+### [Playfair-Cypher](/Playfair_Cypher.c)
+  In this, pairs of letters are encrypted, instead of single letters as in the case of simple substitution cipher. Also, initially a key table is created. The key table is a 5×5 grid of alphabets that acts as the key for encrypting the plaintext.
