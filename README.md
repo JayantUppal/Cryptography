@@ -20,3 +20,6 @@ A list of encryption algorithms to demonstrate concepts of Cryptography. Program
 
 ### [Playfair-Cypher](/Playfair_Cypher.c)
   In this, pairs of letters are encrypted, instead of single letters as in the case of simple substitution cipher. Also, initially a key table is created. The key table is a 5×5 grid of alphabets that acts as the key for encrypting the plaintext.
+
+### [Rivest-Shamir-Adleman(RSA)](/RSA.c)
+  RSA encryption, in full Rivest-Shamir-Adleman encryption, is widely used for data encryption of e-mail and other digital transactions over the Internet. It is an asymmetric system, which means that a key pair will be generated, a public key and a private key, obviously, you keep your private key secure and pass around the public one.
