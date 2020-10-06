@@ -23,3 +23,6 @@ A list of encryption algorithms to demonstrate concepts of Cryptography. Program
 
 ### [Rivest-Shamir-Adleman(RSA)](/RSA.c)
   RSA encryption, in full Rivest-Shamir-Adleman encryption, is widely used for data encryption of e-mail and other digital transactions over the Internet. It is an asymmetric system, which means that a key pair will be generated, a public key and a private key, obviously, you keep your private key secure and pass around the public one.
+
+### [Diffie-Hellman Key Exchange](/Diffie_Hellman.c)
+  Diffie Hellman algorithm is an asymmetric algorithm used to establish a shared secret for a symmetric key algorithm.
